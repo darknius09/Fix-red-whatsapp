@@ -71,7 +71,7 @@ Simpan file .env dengan Ctrl + X, Y, Enter.
 🚀 5. Jalankan Bot
 
 ```bash
-python botwa.py
+python wa.py
 ```
 
 Jika sukses, akan tampil daftar akun dan prompt:
